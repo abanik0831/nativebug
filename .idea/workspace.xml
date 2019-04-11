@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eda6edd-41de-45d1-9a0e-ba80e46ae997" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/help/me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.buckconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build_defs.bzl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/res/xml/react_native_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/AntDesign.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Entypo.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/EvilIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Feather.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/FontAwesome.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/FontAwesome5_Brands.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/FontAwesome5_Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/FontAwesome5_Solid.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Foundation.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-Semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Lato-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MaterialCommunityIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/MaterialIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Octicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/SimpleLineIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/fonts/Zocial.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/reactnativestarter/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/reactnativestarter/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/keystores/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/keystores/debug.keystore.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-Semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Lato-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/RNS_nerd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/default-avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/google-plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/arrow-back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/arrow-back@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/arrow-back@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/nike1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/nike2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pages/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pages/chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pages/chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pages/gallery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pages/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/photos.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/projects.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/social.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/calendar@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/calendar@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/components.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/components@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/components@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/grids.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/grids@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/grids@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/home@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/home@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/pages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/pages@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tabbar/pages@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/topBarBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/white-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangerfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/component/Component.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/component/Component.spec.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/module/ModuleState.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/module/ModuleView.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generators/module/ModuleViewContainer.js.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter-tvOS/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter-tvOSTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter.xcodeproj/xcshareddata/xcschemes/ReactNativeStarter-tvOS.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter.xcodeproj/xcshareddata/xcschemes/ReactNativeStarter.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarter/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarterTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/ReactNativeStarterTests/ReactNativeStarterTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest-setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metro.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plopfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GridRow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RadioGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SegmentedControl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/StyledText.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TextInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/__tests__/example.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/AppState.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/AppView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/AppViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/availableInFullVersion/AvailableInFullVersionView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/availableInFullVersion/AvailableInFullVersionViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/calendar/CalendarState.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/calendar/CalendarView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/calendar/CalendarViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/components/ComponentsView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/components/ComponentsViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/gallery/GalleryState.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/gallery/GalleryView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/gallery/GalleryViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/grids/GridsView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/grids/GridsViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/home/HomeView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/home/HomeViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/navigation/MainTabNavigator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/navigation/Navigator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/navigation/RootNavigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/pages/PagesView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/pages/PagesViewContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/colors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/translations/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/translations/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/translations/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/native/android/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/native/src/redux/store.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/help/me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/native/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/native/babel.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/help/me.js" />
+        <option value="$PROJECT_DIR$/native/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/native" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eda6edd-41de-45d1-9a0e-ba80e46ae997" name="Default Changelist" comment="" />
+      <created>1554998998198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554998998198</updated>
+      <workItem from="1554998999582" duration="1351000" />
+      <workItem from="1555002388150" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1365000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="972" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Storybook" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Bucklescript" order="9" />
+      <window_info anchor="bottom" id="GraphQL" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JWT" order="3" />
+      <window_info anchor="right" id="JSON Viewer" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/native/android/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/native/src/redux/store.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/help/me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/native/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/native/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
